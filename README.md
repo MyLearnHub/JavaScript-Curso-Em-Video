@@ -1,5 +1,5 @@
 <div align="center">
-  <img height="100px" src="assets/curso_em_video.png" alt="Logo do Curso em Vídeo" />
+  <img height="100px" src="https://iconsverse.vercel.app/icons?i=cev" alt="Logo do Curso em Vídeo" />
   <h3>JavaScript - Curso em Vídeo</h3>
 </div>
 
@@ -8,7 +8,7 @@
 
 <div align="center">
   <h3> 💻Tecnologias Aprendidas</h3>
-  <img src="https://icons-hub.vercel.app/icons?i=javascript,nodejs" alt="Tecnologias Aprendidas">
+  <img src="https://iconsverse.vercel.app/icons?i=javascript,nodejs" alt="Tecnologias Aprendidas">
 </div>
 
 # 📚Conteúdo Abordado
